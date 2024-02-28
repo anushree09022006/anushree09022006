@@ -1,12 +1,8 @@
-- 👋 Hi, I'm anushree 
-- 👀 I’m interested in java programming and reading books
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate with my friends
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-anushree09022006/anushree09022006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+a=input("enter the  size of number")
+for i in range(a):
+e=("enter the number")
+a.append(e)
+if a=2:
+print "both are equal"
+else:
+print not equal
